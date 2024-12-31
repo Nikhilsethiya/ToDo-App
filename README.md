@@ -1,4 +1,4 @@
-# A sample todo app in react
+# A sample todo app 
 
 Imported a react application from https://github.com/piyushsachdeva/todoapp-docker
 
